@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerwProperty", "MerwProperty\MerwProperty.csproj", "{BF1AD620-FCB8-45C8-9667-71A1312582FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObject", "DataObject\DataObject.csproj", "{D6218360-C511-40B5-B143-D9AAFE98C192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF1AD620-FCB8-45C8-9667-71A1312582FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1AD620-FCB8-45C8-9667-71A1312582FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1AD620-FCB8-45C8-9667-71A1312582FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1AD620-FCB8-45C8-9667-71A1312582FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6218360-C511-40B5-B143-D9AAFE98C192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6218360-C511-40B5-B143-D9AAFE98C192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6218360-C511-40B5-B143-D9AAFE98C192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6218360-C511-40B5-B143-D9AAFE98C192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA94E036-553A-4903-AD4F-E37F46C6755F}
+	EndGlobalSection
+EndGlobal
